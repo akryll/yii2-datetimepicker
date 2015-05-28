@@ -1,7 +1,7 @@
 {
     "name": "akryll/yii2-datetimepicker",
     "type": "yii2-extension",
-    "description": "Super date-time picker extension.",
+    "description": "Super date - time picker extension.",
     "authors": [
         {
             "name": "LokTar",
