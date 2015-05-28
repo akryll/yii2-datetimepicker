@@ -1,6 +1,7 @@
 {
     "name": "akryll/yii2-datetimepicker",
     "type": "yii2-extension",
+    "license": "GNU",
     "description": "Super date-time picker extension.",
     "authors": [
         {
